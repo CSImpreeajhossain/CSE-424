@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/hdrcxnhnyqmb#82015b
 
 Link to unlisted YouTube video:
-
+https://youtu.be/YY1Wg_hYW2o
 
 Project title:
 Pattern Recognition in Disaster Response: Leveraging Machine Learning for Twitter Analysis
