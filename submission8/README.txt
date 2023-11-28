@@ -1,10 +1,10 @@
 Link to unlisted YouTube video:
-
+https://youtu.be/FMN4rYc2DL8
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
 https://drive.google.com/file/d/1dEATQIByqWJHbVfolPFhphXNLufiuJ2-/view?usp=sharing
 Native/original format:
-https://app.diagrams.net/#G1mgP1jEHKKyt_W1Klg7Exoh8ufGJNQOYt
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=https%3A%2F%2Fapp.diagrams.net%2F%23G1mgP1jEHKKyt_W1Klg7Exoh8ufGJNQOYt&layers=1&nav=1#G1mgP1jEHKKyt_W1Klg7Exoh8ufGJNQOYt
 
 Name, Author, Edition, year, and publisher of the Book:
 Pattern Recognition and Machine Learning
