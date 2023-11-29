@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-
+https://www.overleaf.com/read/tcsyrfbdddyf#9ef37a
 
 Unlisted YouTube video:
 
@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-
+SentimentScope: Deciphering the Spectrum of Human Emotions with NLP
 Paper presentation (anyone can view without login):
 
 
