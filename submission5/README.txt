@@ -14,3 +14,6 @@ Group Members:
 20301356  Musaib Ibn Habib Mikdad
 20341016  Ridwanul Haque
 20341031  Md Impreeaj Hossain 
+
+
+We also correctly uploaded 2nd Draft.PDF here.
