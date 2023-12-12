@@ -11,7 +11,7 @@ Paper title:
 Pattern Recognition in Disaster Response: Leveraging Machine Learning for Twitter Analysis
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1Lkhs-eufaYVBo2Dn_HK85WycEclauaSp/edit?usp=sharing&ouid=112846132028694282106&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
 
