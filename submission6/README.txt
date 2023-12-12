@@ -35,4 +35,4 @@ Group Members:
 
 
 
-We also correctly have uploaded slide.PPT here.
+We also correctly uploaded slide.PPT, Final Paper.PDF and plagiarism report.pdf here.
